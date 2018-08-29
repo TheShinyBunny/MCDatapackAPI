@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MCFunctionAPI">
+    <output-path>$PROJECT_DIR$/out/artifacts/MCFunctionAPI</output-path>
+    <root id="archive" name="MCFunctionAPI.jar">
+      <element id="module-output" name="MCFunctionAPI" />
+    </root>
+  </artifact>
+</component>
